@@ -14,4 +14,4 @@
 
 5. python format can be very helpful in print the output
 
-6. 
+6. 5//2=2.0
